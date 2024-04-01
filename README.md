@@ -1,0 +1,1 @@
+this model is trained on the dataset that is available on kaggle. This model as the name suggests is used to predict the price of the bulldozer. Here i am using RandomForestRegression to help me solve this problem. As the dataset is made up of 412698 sales it takes a much much longer time to computer so here I have opted to train the model on 10000 sample
